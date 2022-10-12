@@ -2,9 +2,9 @@ Deze repo is onderdeel van het vak informatica op het Emmauscollege Rotterdam.
 
 [Meer info over deze opdracht](https://informatica.emmauscollege.nl/)
 
-## *zet hier de titel van je website*
+## *Filmatie*
 
-*zet hier een korte beschrijving van de informatie die je kunt vinden op je website*
+*Hier kunnen mensen informatie zien over een film zoals recenties en plaspauzes.*
 
 ## Planning
 Werk de planning af van boven naar beneden<br>
@@ -17,9 +17,9 @@ Geef aan met [x] welke onderdelen af zijn
 
 ### Stap 1: Start 
 - [ ] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
-- [ ] Je hebt een account aangemaakt op www.github.com.
-- [ ] Je hebt de voorbeeldwebsite van de docent gekopieerd naar je eigen github account. 
-- [ ] Je hebt het onderwerp in de kop op van je homepage gezet.
+- [x] Je hebt een account aangemaakt op www.github.com.
+- [x] Je hebt de voorbeeldwebsite van de docent gekopieerd naar je eigen github account. 
+- [x] Je hebt het onderwerp in de kop op van je homepage gezet.
 
 Aan het einde van stap 1 heb je de voorbeeldwebsite van je docent waarin je zelf de kop hebt aangepast.
 
