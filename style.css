@@ -25,7 +25,7 @@ body * {                          /* geldt voor alles in body */
   width: 700px;                   /* vaste breedte van 700 pixels */
   margin: 10px auto;              /* boven en onder 0 pixels marge, links en rechts marge gelijk verdeeld (gecentreerd) */
 }
-
+.foto {margin-top: 5px;}
 header, footer {                  /* geldt voor header en footer */
   margin: 10px 0px;
 }
