@@ -68,7 +68,10 @@ h1, h2, h3 {
     text-align: center;
     font-size: 0.7em;
 }
-
+.smalltextcenter {
+  text-align: center;
+  front-size: 1em;
+}
 a {
     color: skyblue;
     text-decoration: none;
