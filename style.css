@@ -59,11 +59,15 @@ p {
 }
 
 /* Opmaak voor alle pagina's */
-
+.links {
+  float: right;
+}
 h1, h2, h3 {
       color: red;
 }
-
+.checked {
+  color: orange;
+}
 .smalltext {
     text-align: center;
     font-size: 0.7em;
