@@ -118,3 +118,16 @@ nav li a.active {
 .hover{
   background-color:rgb(177, 43, 43);
 }
+
+.map{
+  position:relative;
+  text-align:right;
+  height:500px;
+  width:305px;
+}
+.mapskaart{
+  overflow:hidden;
+  background:none!important;
+  height:500px;
+  width:305px;
+}

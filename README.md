@@ -32,33 +32,33 @@ Aan het einde van stap 1 heb je de voorbeeldwebsite van je docent waarin je zelf
 Aan het einde van stap 2 heb je een werkend menu met minimaal vier lege subpagina's.
 
 ### Stap 3: Indeling en opmaak hoofdpagina
-- [ ] Je hebt de indeling (lay-out in het Engels, dat is de plek waar elk onderdeel van je pagina op het scherm komt) van je hoofdpagina gekozen.
-- [ ] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
+- [x] Je hebt de indeling (lay-out in het Engels, dat is de plek waar elk onderdeel van je pagina op het scherm komt) van je hoofdpagina gekozen.
+- [x] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
 - [ ] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
-- [ ] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven. De tekst en de plaatjes zijn nog niet ingevuld, daarvoor gebruik je tijdelijk een willekeurige tekst of plaatjes zoals in de voorbeeldsite.
-- [ ] Je hebt opmaak zoals kleuren, lettertypen en kaders in css toegevoegd aan de onderdelen in je layout.
+- [x] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven. De tekst en de plaatjes zijn nog niet ingevuld, daarvoor gebruik je tijdelijk een willekeurige tekst of plaatjes zoals in de voorbeeldsite.
+- [x] Je hebt opmaak zoals kleuren, lettertypen en kaders in css toegevoegd aan de onderdelen in je layout.
 
 Aan het einde van stap 3 heb je een hoofdpagina met een goede indeling en opmaak. 
 
 ### Stap 4: Plaatjes en tekst hoofdpagina
-- [ ] Je hebt in html de tekst op je hoofdpagina gezet. 
-- [ ] Je hebt plaatjes bij je teksten gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
+- [x] Je hebt in html de tekst op je hoofdpagina gezet. 
+- [x] Je hebt plaatjes bij je teksten gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
 
 Aan het einde van stap 4 heb je een hoofdpagina met teksten en plaatjes.
 
 ### Stap 5: Indeling en opmaak subpagina's
-- [ ] Je hebt een layout en opmaak voor al je subpagina's gemaakt. Het is handig om voor al je pagina’s dezelfde lay-out en opmaak te gebruiken. 
+- [x] Je hebt een layout en opmaak voor al je subpagina's gemaakt. Het is handig om voor al je pagina’s dezelfde lay-out en opmaak te gebruiken. 
 
 Aan het einde van stap 5 heb je minimaal vier subpagina's met een goede indeling en opmaak. De plaatjes en tekst op de
 
 ### Stap 6: Plaatjes en tekst subpagina's
-- [ ] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
+- [x] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
 
 Aan het einde van stap 6 heb je minimaal vier subpagina's met teksten en plaatjes.
 
 ### Stap 7: Perfectioneren 
 - [ ] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
-- [ ] Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
+- [x] Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
 - [ ] Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
 
 Aan het einde van stap 7 zijn alle kleine foutjes uit je website verdwenen.
