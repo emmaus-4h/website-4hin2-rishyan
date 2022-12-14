@@ -2,6 +2,9 @@
 * {                                          
 }
 
+/*
+* layout voor homepagina 
+*/
 
 html, body {                     
   margin: 0px;                    
@@ -79,7 +82,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
+/** Layout voor films */
 .optie {
   width:auto;
   height:17em;
@@ -118,7 +121,7 @@ nav li a.active {
 .hover{
   background-color:rgb(177, 43, 43);
 }
-
+/**layout Contact*/
 .map{
   position:relative;
   text-align:right;
