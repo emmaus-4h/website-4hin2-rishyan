@@ -23,8 +23,10 @@ body * {
   width: 700px;                   
   margin: 10px auto;              
 }
+
 .foto {margin-top: 5px;
       }
+
 header, footer {                  
   margin: 10px 0px;
 }
@@ -72,7 +74,7 @@ h1, h2, h3 {
 }
 .smalltextcenter {
   text-align: center;
-  front-size: 1em;
+  font-size: 1em;
 }
 a {
     color: skyblue;
