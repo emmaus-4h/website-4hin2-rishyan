@@ -64,13 +64,13 @@ Aan het einde van stap 6 heb je minimaal vier subpagina's met teksten en plaatje
 Aan het einde van stap 7 zijn alle kleine foutjes uit je website verdwenen.
 
 ### Stap 8: Eye catchers 
-- [ ] Je hebt een aantal extra dingen toegevoegd die je website nog mooier maken. Denk bijvoorbeeld aan animaties met CSS, een responsive design (=website heeft een andere indeling op apparaten met een kleiner scherm), een fotogalerij, visuele effecten als je met je muis ergens overheen beweegt, vernieuwingen in het ontwerp van een gebruikte voorbeeldwebsite etc.
+- [x] Je hebt een aantal extra dingen toegevoegd die je website nog mooier maken. Denk bijvoorbeeld aan animaties met CSS, een responsive design (=website heeft een andere indeling op apparaten met een kleiner scherm), een fotogalerij, visuele effecten als je met je muis ergens overheen beweegt, vernieuwingen in het ontwerp van een gebruikte voorbeeldwebsite etc.
 
 Aan het einde van stap 8 heb je een perfecte website met één of enkele opvallende functies die je zelf hebt toegevoegd.
 
 ### Stap 9: Uitbreidingen (niet verplicht)
 Kies de uitbreidingen die je leuk vindt en maak je website nog mooier
-- [ ] ...
+- [x] 
 
 ## Documentatie
 - Khan Academy cursus Intro to HTML en CSS 
